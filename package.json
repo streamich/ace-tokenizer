@@ -1,0 +1,17 @@
+{
+  "name": "ace-tokenizer",
+  "description": "Syntax highlighter/tokenizer from ACE editor",
+  "version": "1.0.0",
+  "keywords": [
+    "ace",
+    "tokenizer",
+    "syntax",
+    "highlighter",
+    "hightlight"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/streamich/ace-tokenizer"
+  },
+  "main": "index.js"
+}
